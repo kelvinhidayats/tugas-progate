@@ -42,5 +42,5 @@ a {
 }
 
 .text-contents:hover {
-  opacity:0.1;
+  background-color:black;
 }

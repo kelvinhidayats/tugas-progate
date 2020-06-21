@@ -7,8 +7,11 @@
   text-align:center;
 }
 
-.3list-barang {
+.3list {
   float:left;
+}
+
+.3list-barang {
   width: 25%
 }
 

@@ -8,7 +8,7 @@
 }
 
 .3list-barang {
-  float:left
+  float:left;
   width: 25%
 }
 
@@ -18,7 +18,7 @@
   height:250px;
 }
 
-.3list-barang a{
+.barang {
   display:inline-block;
   margin: 0 auto;
   background-color:black;
@@ -27,6 +27,6 @@
   color:white;
 }
 
-.3list-barang a:hover{
+.barang:hover{
   opacity:0.5
 }

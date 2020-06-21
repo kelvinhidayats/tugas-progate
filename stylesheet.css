@@ -1,35 +1,46 @@
-.3bagian-tambahan {
-  width:1170px;
-  margin:25px 20px;
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
 }
 
-.3tulisan {
-  text-align:center;
+a {
+  text-decoration: none;
 }
 
-.3list {
-  float:left;
-}
-
-.3list-barang {
-  width: 25%
-}
-
-.3list-barang img{
+.container {
+  width: 1170px;
+  padding: 0 15px;
   margin: 0 auto;
-  width:250px;
-  height:250px;
 }
 
-.3barang {
-  display:inline-block;
-  margin: 0 auto;
-  background-color:black;
-  font-size:15px;
-  text-align:center;
-  color:white;
+.bagian-tambahan {
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
 }
 
-.3barang:hover{
-  opacity:0.5
+.heading-tambahan {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.koleksi-list {
+  float: left;
+  width: 25%;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 20px;
+  color: #b3aeb5;
+  background-color:navy;
+  height:40px;
+  padding-top:15px;
+}
+
+.text-contents:hover {
+  opacity:0.1;
 }

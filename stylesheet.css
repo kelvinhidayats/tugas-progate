@@ -1,0 +1,30 @@
+.3bagian-tambahan {
+  width:1170px;
+  margin:20px;
+}
+
+.3tulisan {
+  text-align:center;
+}
+
+.3list-barang {
+  float:left
+  width: 25%
+}
+
+.3list-barang img{
+  margin: 0 auto;
+}
+
+.3list-barang a{
+  display:inline-block;
+  margin: 0 auto;
+  background-color:black;
+  font-size:15px;
+  text-align:center;
+  color:white;
+}
+
+.3list-barang a:hover{
+  opacity:0.5
+}

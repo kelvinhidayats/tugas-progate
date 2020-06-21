@@ -41,6 +41,6 @@ a {
   padding-top:15px;
 }
 
-.text-contents:hover {
+.text-contents a:hover {
   background-color:black;
 }
